@@ -26,6 +26,7 @@ div#login_form {
 }
 div#login_form input {
     display: inline-block;
+    margin: 10px;
 }
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
